@@ -1,10 +1,4 @@
-# \# DSTA Brainhack
-
-# 
-
-# A brief description of what this project does and who it's for.  
-
-# 
+# \# My Personal AR Name Card
 
 # &#x20;
 
@@ -22,7 +16,7 @@
 
 # 
 
-# I am a passionate Engineer that likes to be put in a challenge
+# I am a Student waiting for enlistment
 
 # 
 
@@ -34,7 +28,7 @@
 
 # 
 
-# Python, Java, JavaScript, C++, PHP, LoRaWAN Communications 
+# Python, Java, JavaScript, C++, PHP, LoRaWAN Communications, many more 
 
 # 
 
